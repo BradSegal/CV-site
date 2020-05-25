@@ -59,9 +59,9 @@ social:
   link: https://www.linkedin.com/in/bradmaxsegal
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/Brad Segal - CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,4 +73,4 @@ email: ""
 #- Visitors
 ---
 
-I am a current medical student with a passion for technology and development. While studying medicine, I have been working on a variety of other projects such as an automated marking and analytics suite for medical exams, a lightweight management software for student-run events and 3D printing of medical models. I am an artificial intelligence enthusiast and aim to work to combine this passion alongside my medical studies.
+I am a medical student in my clinical years with a passion for technology and development. While studying medicine, I have been working on a variety of projects such as an automated marking and analytics suite for medical exams, a management system for student-run events and 3D printing of medical models. I am an artificial intelligence enthusiast and am currently researching computer-aided chest x-ray diagnostic models as well as the generation of synthetic x-rays through generative adversarial networks.
