@@ -107,6 +107,26 @@ date_format = "Jan 2006"
   date_start = "2015-01-01"
   date_end = ""
   description = ""
+
+[[item]]
+  organization = "King David Victory Park"
+  organization_url = ""
+  title = "Summa Cum Laude Academic Excellence Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-12-01"
+  date_end = ""
+  description = "Aggregate over 90% in final matric examinations"
+  
+[[item]]
+  organization = "King David Victory Park"
+  organization_url = ""
+  title = "Tri-Colour Honours"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-12-01"
+  date_end = ""
+  description = "Due to receiving full colours for academics, debating & community service"  
   
 [[item]]
   organization = "The Duke of Edinburgh's International Award"

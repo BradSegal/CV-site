@@ -30,7 +30,7 @@ education:
   - course: MSc (Eng) in Artificial Intelligence
     institution: University of the Witwatersrand
     year: 2020 - 2021
-  - course: Bachelor of Medicine & Surgery (MBBCh)
+  - course: Bachelor of Medicine & Bachelor of Surgery (MBBCh)
     institution: University of the Witwatersrand
     year: 2016 - 2021
   - course: National Senior Certificate
