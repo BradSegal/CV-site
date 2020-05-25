@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Notables"
 subtitle = ""
 
 # Date format
@@ -115,6 +115,16 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2015-01-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Afrika Tikkun - Developing Communities in South Africa"
+  organization_url = ""
+  title = "Outreach Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2012-12-01"
   date_end = ""
   description = ""
 +++
