@@ -73,4 +73,4 @@ email: ""
 #- Visitors
 ---
 
-I am a medical student in my clinical years with a passion for technology and development. While studying medicine, I have been working on a variety of projects such as an automated marking and analytics suite for medical exams, a management system for student-run events and 3D printing of medical models. I am an artificial intelligence enthusiast and am currently researching computer-aided chest x-ray diagnostic models as well as the generation of synthetic x-rays through generative adversarial networks.
+I am a medical student in my clinical years with a passion for technology and development. While studying medicine, I have been working on a variety of projects such as an automated marking and analytics suite for medical exams, a management system for student-run events and 3D printing of medical models. I am an artificial intelligence enthusiast and am currently researching computer-aided chest x-ray diagnostic models as well as the creation of synthetic medical images through generative adversarial networks.
