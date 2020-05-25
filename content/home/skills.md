@@ -16,31 +16,31 @@ subtitle = ""
 
 [[feature]]
   icon = "stethoscope"
-  icon_pack = "fab"
+  icon_pack = "custom"
   name = "Clinical Medicine"
   description = ""
 
 [[feature]]
-  icon = "python-grad"
+  icon = "python-colour"
   icon_pack = "custom"
   name = "Python"
   description = ""
   
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
+  icon = "r"
+  icon_pack = "custom"
   name = "R"
   description = ""
   
 [[feature]]
-  icon = "signal"
-  icon_pack = "fas"
+  icon = "chart"
+  icon_pack = "custom"
   name = "Data Analysis"
   description = ""  
   
 [[feature]]
-  icon = "chart-bar"
-  icon_pack = "fas"
+  icon = "analysis"
+  icon_pack = "custom"
   name = "Data Visualisation"
   description = ""  
   

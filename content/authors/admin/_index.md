@@ -33,7 +33,7 @@ education:
   - course: Bachelor of Medicine & Surgery (MBBCh)
     institution: University of the Witwatersrand
     year: 2016 - 2021
-  - course: BSc in Artificial Intelligence
+  - course: National Senior Certificate
     institution: King David Victory Park
     year: 2010-2015
 
