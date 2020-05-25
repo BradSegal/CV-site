@@ -50,7 +50,7 @@ both primary & high school students in nearly every subject offered. Since start
   company = "Matuson & Associates"
   company_url = ""
   location = "Johannesburg, South Africa"
-  date_start = "2016-11-31"
+  date_start = "2016-11-30"
   date_end = "2016-12-31"
   description = """Within this position, I operated as an independent trend analyst; meeting with upper management of various companies as well as performing both hands-on and off research and data handling to produce comprehensive reports on the practical implementations and ramifications of policy changes."""  
 
