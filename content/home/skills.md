@@ -15,14 +15,14 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "user-md"
+  icon = "stethoscope"
   icon_pack = "fab"
   name = "Clinical Medicine"
   description = ""
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
+  icon = "python-grad"
+  icon_pack = "custom"
   name = "Python"
   description = ""
   
