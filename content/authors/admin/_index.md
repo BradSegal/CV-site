@@ -31,7 +31,7 @@ social:
     link: files/Brad Segal - CV.pdf
 education:
   courses:
-    - course: "MSc (Eng) "
+    - course: MSc (Eng)
       institution: University of the Witwatersrand
       year: 2021
     - course: Bachelor of Medicine & Bachelor of Surgery (MBBCh)
