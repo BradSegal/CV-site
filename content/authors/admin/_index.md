@@ -1,7 +1,8 @@
 ---
-title: Brad Segal
-role: Medical Student / MSc Candidate
+title: Bradley Max Segal
+role: Medical Doctor | Engineer
 organizations:
+  - name: Chris Hani Baragwanath Hospital
   - name: University of the Witwatersrand
     url: ""
   - name: Wits Health Consortium
@@ -31,16 +32,15 @@ social:
     link: files/Brad Segal - CV.pdf
 education:
   courses:
-    - course: MSc (Eng)
+    - course: Master of Science in Engineering
       institution: University of the Witwatersrand
-      year: 2021
+      year: ""
     - course: Bachelor of Medicine & Bachelor of Surgery (MBBCh)
       institution: University of the Witwatersrand
-      year: 2021
+      year: ""
     - course: National Senior Certificate
       institution: King David Victory Park
-      year: 2015
+      year: ""
 email: ""
 ---
-
-I am a medical student in my clinical years with a passion for technology and development. While studying medicine, I have been working on a variety of projects such as an automated marking and analytics suite for medical exams, a management system for student-run events and 3D printing of medical models. I am an artificial intelligence enthusiast and am currently researching computer-aided chest x-ray diagnostic models as well as the creation of synthetic medical images through generative adversarial networks.
+I’m a qualified medical doctor with a passion for digital technology and its applications for healthcare. This passion led me to simultaneously complete an MSc in Engineering alongside my medical degree. My research focus has largely been on the applications of deep learning for medical imaging, however, I have also worked on infectious disease modelling, HIV transmission risk prediction, as well as more conventional medical research. I am thoroughly fascinated with AI & Precision Medicine in all its forms and am working to bring these concepts to reality.
