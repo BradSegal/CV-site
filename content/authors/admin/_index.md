@@ -34,13 +34,13 @@ education:
   courses:
     - course: Master of Science in Engineering
       institution: University of the Witwatersrand
-      year: 2021
+      year: 2020-2021
     - course: Bachelor of Medicine & Bachelor of Surgery (MBBCh)
       institution: University of the Witwatersrand
-      year: 2023
+      year: 2016-2021
     - course: National Senior Certificate
       institution: King David Victory Park
-      year: 2015
+      year: 2011-2015
 email: ""
 ---
 I’m a medical doctor with a passion for digital technology and its applications for healthcare. This passion led me to simultaneously complete an MSc in Engineering alongside my medical degree. My research focus has largely been on the applications of deep learning for medical imaging, however, I have also worked on infectious disease modelling, HIV transmission risk prediction, as well as more conventional medical research. I am thoroughly fascinated with AI & Precision Medicine in all its forms and am working to bring these concepts to reality.
